@@ -1,0 +1,39 @@
+
+body {
+    margin: 0 auto;
+    padding: 0;
+    background-color: dimgray;
+}
+
+h1 {
+    color: crimson;
+}
+span {
+    color: darkgoldenrod;
+}
+
+div {
+    width: 40%;
+    height: 60%;
+    background-color: darkgrey;
+    border-radius: 20px;
+    text-align: center;
+    margin-left: 30%;
+}
+
+button {
+    color: orange;
+    background-color: rgb(116, 4, 120);
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border: none;
+    font-size: 15px;
+}
+
+button:hover {
+    color: black;
+    font-size: 20px;
+    background-color: orange;
+    border-radius: 10px;
+    border: none;
+}
